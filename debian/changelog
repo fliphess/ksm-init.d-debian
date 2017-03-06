@@ -1,3 +1,9 @@
+ksm (20170306.2246) xenial; urgency=medium
+
+  * Build for xenial
+
+ -- root <root@server.home>  Mon, 06 Mar 2017 22:46:24 +0100
+
 ksm (20150424.2151) trusty; urgency=medium
 
   * Release for downtek
