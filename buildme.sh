@@ -16,7 +16,7 @@ git push
 git push --tags
 
 echo Building package
-git-buildpackage --git-pbuilder --git-dist=trusty --git-arch=amd64 --git-ignore-branch
+git-buildpackage --git-pbuilder --git-dist=xenial --git-arch=amd64 --git-ignore-branch
 
 
 # Push package
